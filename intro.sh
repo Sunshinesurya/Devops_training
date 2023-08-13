@@ -1,4 +1,5 @@
-echo "Good day! Welcome to Sunshine Freshmart.
+echo "Good day! 
+Welcome to Sunshine Freshmart.
 May I know your name please?"
 read C_name
 echo "Hi, $C_name. I've listed down the available products below:"
